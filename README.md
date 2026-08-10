@@ -39,3 +39,53 @@ SQLite Database
 SQL Analysis
       ↓
 Power BI Dashboard
+
+
+## Dashboard
+
+The Power BI dashboard includes:
+
+-Total Netflix Titles
+-Movies vs TV Shows
+-Titles by Release Year
+-Movie / TV Show interactive slicer
+
+## Key Analysis
+
+The dataset contains:
+
+8,807 Netflix titles
+
+The analysis uses Python and SQL to explore content type, ratings, and release-year trends.
+
+## Files
+data/:
+
+Contains the cleaned Netflix dataset.
+
+notebooks/:
+
+Contains the complete Python/Google Colab analysis.
+
+sql/:
+
+Contains SQL queries used for analysis.
+
+dashboard/:
+
+Contains the Power BI dashboard file.
+
+## Skills Demonstrated
+Data Cleaning
+Exploratory Data Analysis
+Data Visualization
+SQL Querying
+SQLite
+Power BI Dashboard Development
+Data Storytelling
+GitHub Project Management
+## Author
+
+Ravi Varma
+
+Data Analytics Project
